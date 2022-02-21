@@ -20,7 +20,7 @@ Project type:
 
 Programming languages/ Applications used:
 
-     Javascript
+     Javascript, Nodejs.
 
 Project duration (total):
 
