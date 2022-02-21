@@ -44,6 +44,21 @@ Project challenges:
 
 Features to implement in the future:
 
+
+
+
+Installation
+
+In the Terminal...
+
+Run npm install
+
+- Type:  npm install
+
+Run Readme Generator
+
+- Type: node index.js
+
      
 
 
