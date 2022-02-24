@@ -49,6 +49,12 @@ Features to implement in the future:
 
 Installation
 
+
+STEP 1: 
+In Visual Studio Code, open the Integrated Terminal through right click on the index.js file.
+
+
+
 In the Terminal...
 
 Run npm install
