@@ -28,15 +28,13 @@ Project duration (total):
 
 Project goal:
      
-     
+     Create a README file quickly and easily by using a command-line application to generate one.
   
     
-
 Project description:
-     
-    
-   
 
+    Command line interface application which creates a README file for your application repositories
+     
     
 Project challenges:
 
@@ -50,20 +48,15 @@ Features to implement in the future:
 Installation
 
 
-STEP 1: 
-In Visual Studio Code, open the Integrated Terminal through right click on the index.js file.
+1) In Visual Studio Code, open the Integrated Terminal through right click on the index.js file.
 
+2) In the Terminal...
 
+- Run npm install
 
-In the Terminal...
+- Then type: node index.js
 
-Run npm install
-
-- Type:  npm install
-
-Run Readme Generator
-
-- Type: node index.js
+- Answer the questions
 
      
 
