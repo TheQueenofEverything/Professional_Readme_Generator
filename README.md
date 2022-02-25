@@ -5,7 +5,7 @@ Project URL:
 
 GitHub repository URL:
 
-    https://github.com/TheQueenofEverything/Work_Day_Scheduler_API-Challenge
+    https://github.com/TheQueenofEverything/Professional_Readme_Generator
 
 
 Project name:
@@ -24,7 +24,7 @@ Programming languages/ Applications used:
 
 Project duration (total):
 
-     86 hours
+     112 hours
 
 Project goal:
      
@@ -38,15 +38,13 @@ Project description:
     
 Project challenges:
 
+- Issues with proper syntax to make functions work.
+- Overall, the development of this back-end application got complicated very fast.
+- Most tests weren't sucessfull at all in the beginning.
+- It took a while to understand how the system works to generate the read me file.
 
 
-Features to implement in the future:
-
-
-
-
-Installation
-
+Installation:
 
 1) In Visual Studio Code, open the Integrated Terminal through right click on the index.js file.
 
@@ -54,11 +52,17 @@ Installation
 
 - Run npm install
 
-- Then type: node index.js
+- Run node index.js
 
-- Answer the questions
+- Type the answers :)
 
      
 
 
 Screenshot:
+
+
+
+![Screenshot](https://user-images.githubusercontent.com/65464431/155785930-7dd48b5a-979c-4ea7-87d3-cc584471938b.png)
+
+
