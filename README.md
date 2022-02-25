@@ -38,17 +38,15 @@ Project description:
     
 Project challenges:
 
-- Issues with proper syntax to make functions work.
-- Overall, the development of this back-end application got complicated very fast.
-- Most tests weren't sucessfull at all in the beginning.
-- It took a while to understand how the system works to generate the read me file.
+- Issues with proper syntax to make functions work;
+- Most tests were unsuccessfull in the beginning
 
 
-Installation:
+Installation & Usage:
 
-1) In Visual Studio Code, open the Integrated Terminal through right click on the index.js file.
+STEP 1) In Visual Studio Code, open the Integrated Terminal through right click on the index.js file.
 
-2) In the Terminal...
+STEP 2 2) In the Terminal...
 
 - Run npm install
 
