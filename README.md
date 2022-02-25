@@ -15,7 +15,7 @@ Project name:
 
 Project type:
 
-     Application that runs in the Terminal 
+   Readme FiLe | Application that runs in the Terminal 
    
 
 Programming languages/ Applications used:
