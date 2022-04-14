@@ -60,7 +60,3 @@ STEP 2 2) In the Terminal...
 Screenshot:
 
 
-
-![Screenshot](https://user-images.githubusercontent.com/65464431/155785930-7dd48b5a-979c-4ea7-87d3-cc584471938b.png)
-
-
