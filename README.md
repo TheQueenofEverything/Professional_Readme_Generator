@@ -52,11 +52,6 @@ STEP 2 2) In the Terminal...
 
 - Run node index.js
 
-- Type the answers :)
-
-     
-
-
-Screenshot:
+- Type the answers
 
 
